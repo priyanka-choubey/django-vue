@@ -134,7 +134,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-AUTH0_DOMAIN = 'auth0.com'
+AUTH0_DOMAIN = 'django-vue-js.auth0.com'
 API_IDENTIFIER = 'https://django-vuejs-api'
 PUBLIC_KEY = None
 JWT_ISSUER = None
